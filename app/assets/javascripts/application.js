@@ -12,4 +12,8 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require foundation
+//= require humane
 //= require_tree .
+
+$(document).foundation();
